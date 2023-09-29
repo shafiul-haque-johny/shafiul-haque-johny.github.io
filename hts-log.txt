@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Sep 2023 21:02:05 at https://marketifythemes.net/html/arlo/index-particle.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://marketifythemes.net/html/arlo/index-particle.html -O1 "C:\My Web Sites\jony" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:02:36	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/arlo/css/owl.video.play.png (from https://marketifythemes.net/html/arlo/css/plugins.css)
+21:02:36	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/arlo/css/ytp-regular.eot (from https://marketifythemes.net/html/arlo/css/plugins.css)
+21:02:36	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/arlo/css/mCSB_buttons.png (from https://marketifythemes.net/html/arlo/css/plugins.css)
+21:02:36	Error: 	"Not Found" (404) at link https://marketifythemes.net/hqdefault.jpg (from https://marketifythemes.net/html/arlo/js/plugins.js)
+21:02:36	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/arlo/img.svg (from https://marketifythemes.net/html/arlo/js/init.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 seconds : 62 links scanned, 56 files written (1861025 bytes overall) [1315671 bytes received at 42441 bytes/sec], 909735 bytes transferred using HTTP compression in 42 files, ratio 32%, 20.6 requests per connection
+(5 errors, 0 warnings, 0 messages)
